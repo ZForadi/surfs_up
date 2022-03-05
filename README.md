@@ -28,7 +28,9 @@ For June:
 
 ![June_Temps](June_Temps.png)
 
+
 For December:
+
 ![Dec_Temps](Dec_Temps.png)
 
 From the summary statistics, the following observations can be noted:
@@ -54,6 +56,7 @@ For June:
 ![June_Percp](June_Percp.png)
 
 For December:
+
 ![Dec_Percp](Dec_Percp.png)
 
 From the above it can be observed that on average June has less precipitation than December. June had average precipitation of 0.14 while December had an average of 0.22. There is also more spread in the amount of precipitation observations for December than June (December's standard deviation was 0.54 while June was 0.33). December also had a maximum precipitation observation of 6.4 while June had 4.4. 
